@@ -1,4 +1,4 @@
-# Слайды презентации "От нуля до героя фронтенда" для International Women's Day GDG Magas 2021
+# Слайды презентации "С нуля до героя фронтенда" для International Women's Day GDG Magas 2021
 
 <img src="pictures/cool.gif" width="250" alt="logo">
 
