@@ -1,75 +1,29 @@
-# Shower Presentation Template
-[![Test status](https://github.com/shower/shower/workflows/Test/badge.svg)](https://github.com/shower/shower/actions/workflows/test.yml)
+# Слайды презентации "От нуля до героя фронтенда" для International Women's Day GDG Magas 2021
 
-<img src="pictures/logo.png" width="250" alt="Shower logo">
+<img src="pictures/cool.gif" width="250" alt="logo">
 
-> Shower ['ʃəuə] noun. A person or thing that shows.
+1. Быстренько обо мне
+2. Кто такой фронтендер и чем он занимается?
+3. С чего начать и что читать? Чек-лист обучения
+4. Какие трудности могут быть? Ошибки в начале пути
+5. Нужны ли платные курсы или высшее образование?
+6. Как проходить собеседования?
 
-1. Built on HTML, CSS and vanilla JavaScript.
-2. Works in all modern browsers.
-3. Themes are separated from engine.
-4. Fully keyboard accessible.
-5. Printable to PDF.
+[Тыкай сюда для демонстрации](http://talifa.github.io/superfront/)
 
-[See it in action](https://shwr.me/). Includes [Ribbon](https://github.com/shower/ribbon/) and [Material](https://github.com/shower/material/) themes, and [core](https://github.com/shower/core/) with plugins.
+## Ссылки
 
-Follow [@shower_me](https://twitter.com/shower_me) for support and updates, [file an issue](https://github.com/shower/shower/issues/new) if you have any.
+-   [Пошаговый гид в мир фронтенда](https://habr.com/ru/company/domclick/blog/526244/)
+-   [От нуля до героя фронтенда (Часть 1)](https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-front-enda-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-f524d668f328)
+-   [От нуля до героя фронтенда (Часть 2)](https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-25f19e56eb29)
+-   [Как я попала в Яндекс и чему научилась – Анна Тютюнник](https://www.youtube.com/watch?v=yIk7VfycBBw)
 
-## Quick Start
+## Спасибы
 
-1. Download and unzip [shower.zip](http://shwr.me/shower.zip) template archive.
-2. Open `index.html` in any text editor and start creating your presentation.
+Сделано на [Shower](https://github.com/shower/shower/).
 
-## Quick Start via CLI
+Спасибо за него [pepelsbey](https://github.com/pepelsbey).
 
-You’ll need [Node.js](https://nodejs.org/) installed on your computer.
+--
 
-1. Install Shower CLI utility: `npm install -g @shower/cli`.
-2. Create your presentation: `shower create`.
-
-Read more on [shower/cli](https://github.com/shower/cli/) page.
-
-## Quick Start with Hosting
-
-You’ll need [Node.js](https://nodejs.org/) installed on your computer.
-
-1. Copy this repository to your account via GitHub.
-    1. Open [import page](https://github.com/new/import).
-    2. Use `https://github.com/shower/shower` for the repository URL
-    3. Use your presentation name.
-    4. Clone the resulted repository to your computer.
-2. Install dependencies `npm install` and start a local server `npm start`.
-3. Start editing your slides with live-reload.
-
-Once you’re done you can build a clean copy of your slides:
-
-    npm run prepare
-
-You’ll find your presentation in `prepared` folder. You can also run `npm run archive` to get the same files in `presentation.zip`.
-
-Publish your presentation online by running:
-
-    npm run publish
-
-You’ll have your slides published to `https://USER.github.io/REPO/`.
-
-## Deploy to Netlify
-
-By clicking the button below you can fork this repo and deploy it to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shower/shower)
-
-By doing this you would get a GitHub repo linked with Netlify in a way any change to the repo would trigger a Shower rebuild and deploy to Netlify servers, which allows for an easy way to create and share Shower presentation without the need to install anything locally.
-
-## Browser Support
-
-Latest stable versions of Chrome, Edge, Firefox, and Safari are supported.
-
-## Contributing
-
-You’re always welcome to contribute. Fork project, make changes and send it as pull request. But it’s better to file an [issue](https://github.com/shower/shower/issues) with your idea first. Read [contributing rules](CONTRIBUTING.md) for more details.
-
-Main contributors in historical order: [pepelsbey](https://github.com/pepelsbey), [jahson](https://github.com/jahson), [miripiruni](https://github.com/miripiruni), [kizu](https://github.com/kizu), [artpolikarpov](https://github.com/artpolikarpov), [tonyganch](https://github.com/tonyganch), [zloylos](https://github.com/zloylos), [zloylos](https://github.com/zloylos), [shvaikalesh](https://github.com/shvaikalesh).
-
----
 Licensed under [MIT License](LICENSE.md).
